@@ -22,14 +22,6 @@ a, p, h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 0;
 }
 
-a:visited {
-  color: none;
-}
-
-a:active {
-  color: none;
-}
-
 ul {
 	margin: 0;
 	margin-left: 0;
@@ -585,6 +577,7 @@ margin-bottom: 9px;
 .portfolio-list-item-text {
 	font-size: 16px;
 	line-height: 1.87;
+	color: var(--primary-text-color);
 }
 
 .portfolio-list-link {
